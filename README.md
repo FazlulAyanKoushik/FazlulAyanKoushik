@@ -1,8 +1,8 @@
-# Hi 👋, I'm Fazlul Ayan Koushik
+# Hi 👋, I'm Fazlul Ayan Koushik 
+Python -Django Developer
 I like to explore new things and like problem solving, Software development. I'm well listener and self-motivated.
 
 
-- 🌱 I’m currently learning **machine learning**
 - 👨‍💻 All of my projects are available at [https://github.com/FazlulAyanKoushik?tab=repositories](https://github.com/FazlulAyanKoushik?tab=repositories)
 - 💬 Ask me about **Python, Django, Angular, Node**
 - 📫 How to reach me **kf.ayan17@gmail.com**
