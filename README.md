@@ -1,5 +1,7 @@
 # Hi 👋, I'm Fazlul Ayan Koushik 
-Python -Django Developer
+
+# Python-Django Developer
+
 I like to explore new things and like problem solving, Software development. I'm well listener and self-motivated.
 
 
