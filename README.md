@@ -11,6 +11,10 @@ I like to explore new things and like problem solving, Software development. I'm
 - 📄 Know about my experiences [https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link](https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link)
 
 
+<div align="center">
+  Visitor count<br>
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=FazlulAyanKoushik&icon=0&color=0)](https://visitcount.itsvg.in)
 
