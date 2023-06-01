@@ -10,10 +10,10 @@ I like to explore new things and like problem solving, Software development. I'm
 - 📫 How to reach me **kf.ayan17@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link](https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link)
 
-<p align="center">
+<div align="center">
   Visitor count<br>
   [![](https://visitcount.itsvg.in/api?id=FazlulAyanKoushik&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/koushik.ayan.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/koushik__ayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazlul-ayan-koushik-76935719b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19994854) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/koushik__ayan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWLvyM_XmflsCIMmvrNcm5w/videos) 
@@ -32,4 +32,4 @@ I like to explore new things and like problem solving, Software development. I'm
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FazlulAyanKoushik&theme=dark&hide_border=true)<br/>
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=FazlulAyanKoushik&icon=0&color=0)](https://visitcount.itsvg.in)
