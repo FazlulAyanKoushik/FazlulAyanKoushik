@@ -12,7 +12,7 @@ I like to explore new things and like problem solving, Software development. I'm
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/WazedKhan/count.svg" />
+  [![](https://visitcount.itsvg.in/api?id=FazlulAyanKoushik&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 ## 🌐 Socials:
@@ -32,4 +32,4 @@ I like to explore new things and like problem solving, Software development. I'm
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FazlulAyanKoushik&theme=dark&hide_border=true)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FazlulAyanKoushik&icon=0&color=0)](https://visitcount.itsvg.in)
+
