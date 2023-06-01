@@ -31,7 +31,6 @@ I like to explore new things and like problem solving, Software development. I'm
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fazlulayankoushik&show_icons=true&theme=gotham" alt="ayan" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulayankoushik&hide=java,html,css&theme=dracula" alt="ayan" /> </P>
 
-![](https://github-readme-stats.vercel.app/api?username=FazlulAyanKoushik&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FazlulAyanKoushik&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FazlulAyanKoushik&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
