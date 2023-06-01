@@ -8,7 +8,7 @@ I like to explore new things and like problem solving, Software development. I'm
 - 👨‍💻 All of my projects are available at [https://github.com/FazlulAyanKoushik?tab=repositories](https://github.com/FazlulAyanKoushik?tab=repositories)
 - 💬 Ask me about **Python, Django, Angular, Node**
 - 📫 How to reach me **kf.ayan17@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link](https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link](https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FazlulAyanKoushik&icon=0&color=0)](https://visitcount.itsvg.in)
