@@ -26,7 +26,7 @@ I like to explore new things and like problem solving, Software development. I'm
 <p align="left"> <a href="https://twitter.com/koushik__ayan" target="blank"><img src="https://img.shields.io/twitter/follow/koushik__ayan?logo=twitter&style=for-the-badge" alt="koushik__ayan" /></a> </p>
 
 # 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fazlulayankoushik&show_icons=true&theme=gotham" alt="ayan" />
+//<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fazlulayankoushik&show_icons=true&theme=gotham" alt="ayan" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulayankoushik&hide=java,html,css&theme=dracula" alt="ayan" /> </P>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=FazlulAyanKoushik&theme=dark&hide_border=true)<br/> -->
