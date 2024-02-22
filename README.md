@@ -1,8 +1,8 @@
 # Hi 👋, I'm Fazlul Ayan Koushik 
 
-# Python-Django Developer
+# Software Engineer
 
-I like to explore new things and like problem solving, Software development. I'm well listener and self-motivated.
+I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development and the Data Science sector.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/FazlulAyanKoushik?tab=repositories](https://github.com/FazlulAyanKoushik?tab=repositories)
