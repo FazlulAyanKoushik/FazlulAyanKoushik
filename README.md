@@ -34,11 +34,13 @@ I enjoy exploring new things, excelling in teamwork, working well under pressure
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+# 📊 GitHub Stats:
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazlulayankoushik" alt="fazlulayankoushik" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/koushik__ayan" target="blank"><img src="https://img.shields.io/twitter/follow/koushik__ayan?logo=twitter&style=for-the-badge" alt="koushik__ayan" /></a> </p>
 
-# 📊 GitHub Stats:
+
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fazlulayankoushik&show_icons=true&theme=gotham" alt="ayan" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulayankoushik&hide=java,html,css&theme=dracula" alt="ayan" /> </P>
 
