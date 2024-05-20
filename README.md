@@ -36,7 +36,7 @@ I enjoy exploring new things, excelling in teamwork, working well under pressure
 
 # 📊 GitHub Stats:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazlulayankoushik" alt="fazlulayankoushik" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazlulayankoushik" alt="fazlulayankoushik" /></a> </p> -->
 
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fazlulayankoushik&show_icons=true&theme=gotham" alt="ayan" /> -->
