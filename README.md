@@ -41,6 +41,8 @@ A passionate **BACK-END ENGINEER** from Bangladesh. I enjoy exploring new things
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 
 # 📊 GitHub Stats:
 
@@ -48,6 +50,6 @@ A passionate **BACK-END ENGINEER** from Bangladesh. I enjoy exploring new things
 
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fazlulayankoushik&show_icons=true&theme=gotham" alt="ayan" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulayankoushik&hide=java,html,css&theme=dracula" alt="ayan" /> </P>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulayankoushik&hide=java,html,css&theme=dracula" alt="ayan" /></P>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=FazlulAyanKoushik&theme=dark&hide_border=true)<br/> -->
