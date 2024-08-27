@@ -1,16 +1,21 @@
-# Hi 👋, I'm Fazlul Ayan Koushik 
+<h1 align="center">Hi 👋, I'm Fazlul Ayan Koushik</h1>
+<h2 align="center" style="color: gray; margin-top: 1px"  >Software Engineer</h2>
+<h4 align="center">A passionate Backend Engineer from Bangladesh. I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development, Machine Learning and the Data Science sector.</h4>
 
-# Software Engineer
+<img width="250" height="180" style="margin-right: 50px" align="right" src="https://file.notion.so/f/f/5b29438c-51c2-4fac-8c2b-4c6870330a79/468946b9-2224-4e7a-aeb0-f5795f77b656/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif?table=block&id=763196d7-efff-42a1-9f0c-152fad809e99&spaceId=5b29438c-51c2-4fac-8c2b-4c6870330a79&expirationTimestamp=1724853600000&signature=0FftIuJ_F4YuJmya5XUxACB-yG4nDvOXq5hVPw2gDK8" alt="image">
 
-I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development and the Data Science sector.
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/FazlulAyanKoushik?tab=repositories](https://github.com/FazlulAyanKoushik?tab=repositories)
+- 👨‍💻 All of my projects are available at [Portfolio](https://eager-bandicoot-3d3.notion.site/Fazlul-Ayan-Koushik-703c0b84db2340c18804599d0811de90)
+- 📝 I regularly write articles on [CodeNest](https://eager-bandicoot-3d3.notion.site/CodeNest-4c100f7146fb48d483856d0fbe4f556c)
 - 💬 Ask me about **Python, Django, Angular, Node**
-- 📫 How to reach me **kf.ayan17@gmail.com**
-<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link](https://drive.google.com/file/d/11T4CVSwhAdrpZZvJHSHppc8mWjINPF2I/view?usp=share_link) -->
+- 📫 How to reach me `kf.ayan17@gmail.com`
+- ⚡ Fun fact **I think I am Funny and Entertainer.**
 
----
+<br>
+
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=FazlulAyanKoushik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
