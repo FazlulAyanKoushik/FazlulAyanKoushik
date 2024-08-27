@@ -1,5 +1,5 @@
-<p align="center" style="font-size: xx-large">Hi 👋, I'm Fazlul Ayan Koushik</p>
-<p align="center" style="font-size: x-large; margin-top: 1px">Software Engineer</p>
+<p align="center" style="font-size: xxx-large; font-weight: bold">Hi 👋, I'm Fazlul Ayan Koushik</p>
+<p align="center" style="font-size: xx-large; font-weight: bold">Software Engineer</p>
 <hr>
 <h4 align="center">A passionate Backend Engineer from Bangladesh. I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development, Machine Learning and the Data Science sector.</h4>
 
