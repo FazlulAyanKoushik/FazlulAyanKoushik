@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazlul Ayan Koushik <br>
-    <span style="font-size: large">Software Engineer</span>
+    <span style="font-size: medium">Software Engineer</span>
 </h1>
 <h4 align="center">A passionate Backend Engineer from Bangladesh. I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development, Machine Learning and the Data Science sector.</h4>
 
