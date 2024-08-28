@@ -2,8 +2,8 @@
 
 
 
-
-A passionate **BACK-END ENGINEER** from Bangladesh. I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development, Machine Learning and the Data Science sector.
+`Software Engineer (Python Developer | Django Developer)` <br><br>
+A passionate BACK-END ENGINEER from Bangladesh. I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development, Machine Learning and the Data Science sector.
 
 <img width="280" height="190" style="margin-right: 50px" align="right" src="https://file.notion.so/f/f/5b29438c-51c2-4fac-8c2b-4c6870330a79/468946b9-2224-4e7a-aeb0-f5795f77b656/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif?table=block&id=763196d7-efff-42a1-9f0c-152fad809e99&spaceId=5b29438c-51c2-4fac-8c2b-4c6870330a79&expirationTimestamp=1724853600000&signature=0FftIuJ_F4YuJmya5XUxACB-yG4nDvOXq5hVPw2gDK8" alt="image">
 
@@ -21,12 +21,13 @@ A passionate **BACK-END ENGINEER** from Bangladesh. I enjoy exploring new things
 
 [![](https://visitcount.itsvg.in/api?id=FazlulAyanKoushik&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<hr>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazlul-ayan-koushik-me/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/koushik.ayan.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/koushik__ayan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19994854) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/koushik__ayan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWLvyM_XmflsCIMmvrNcm5w/videos) 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <table border="0">
   <tr>
@@ -115,7 +116,7 @@ A passionate **BACK-END ENGINEER** from Bangladesh. I enjoy exploring new things
 </table>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazlulayankoushik" alt="fazlulayankoushik" /></a> </p> -->
 
