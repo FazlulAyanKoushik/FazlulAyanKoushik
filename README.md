@@ -62,6 +62,7 @@ A passionate Software Engineer from Bangladesh. I enjoy exploring new things, ex
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
       <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     </td>
   </tr>
   <tr>
@@ -90,6 +91,9 @@ A passionate Software Engineer from Bangladesh. I enjoy exploring new things, ex
     <td><strong>DevOps:</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/%20EC2-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="EC2">
+      <img src="https://img.shields.io/badge/%20S3-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="S3">
+      <img src="https://img.shields.io/badge/%20RDS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="RDS">
     </td>
   </tr>
   <tr>
@@ -97,12 +101,14 @@ A passionate Software Engineer from Bangladesh. I enjoy exploring new things, ex
     <td>
       <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"> 
     </td>
   </tr>
   <tr>
     <td><strong>API Testing Tools:</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+      <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
     </td>
   </tr>
   <tr>
