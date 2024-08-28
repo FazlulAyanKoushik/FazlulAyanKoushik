@@ -114,7 +114,7 @@ A passionate Software Engineer from Bangladesh. I enjoy exploring new things, ex
   <tr>
     <td><strong>IDEs:</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+      <img src="https://img.shields.io/badge/PyCharm-00000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
       <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
     </td>
