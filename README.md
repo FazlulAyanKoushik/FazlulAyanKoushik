@@ -91,7 +91,7 @@ A passionate Software Engineer from Bangladesh. I enjoy exploring new things, ex
     <td><strong>DevOps:</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/%20EC2-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="EC2">
+      <img src="https://img.shields.io/badge/%20EC2-%23F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="EC2">
       <img src="https://img.shields.io/badge/%20S3-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="S3">
       <img src="https://img.shields.io/badge/%20RDS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="RDS">
     </td>
