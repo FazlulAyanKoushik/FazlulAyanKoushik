@@ -5,7 +5,7 @@
 `Software Engineer (Backend Engineer | Python Developer | Django Developer)` <br><br>
 A passionate Software Engineer from Bangladesh. I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development, Machine Learning and the Data Science sector.
 
-<img width="280" height="190" style="margin-right: 50px" align="right" src="https://www.notion.so/Gallery-bb70a110db8b4a60b854053aa6811105" alt="image">
+<img width="280" height="190" style="margin-right: 50px" align="right" src="[https://www.notion.so/Gallery-bb70a110db8b4a60b854053aa6811105](https://file.notion.so/f/f/5b29438c-51c2-4fac-8c2b-4c6870330a79/468946b9-2224-4e7a-aeb0-f5795f77b656/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif?table=block&id=763196d7-efff-42a1-9f0c-152fad809e99&spaceId=5b29438c-51c2-4fac-8c2b-4c6870330a79&expirationTimestamp=1725638400000&signature=YuzLtypm8NDQb4UsljEWSk263xl1hDYopMT8Mr7kvwA)" alt="image">
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://eager-bandicoot-3d3.notion.site/Fazlul-Ayan-Koushik-703c0b84db2340c18804599d0811de90)
 - 📝 I regularly write articles on [CodeNest](https://eager-bandicoot-3d3.notion.site/CodeNest-4c100f7146fb48d483856d0fbe4f556c)
