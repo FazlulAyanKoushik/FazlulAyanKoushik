@@ -5,13 +5,18 @@
 `Software Engineer (Backend Engineer | Python Developer | Django Developer)` <br><br>
 A passionate Software Engineer from Bangladesh. I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development, Machine Learning and the Data Science sector.
 
-<img width="280" height="190" style="margin-right: 50px" align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="image">
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://eager-bandicoot-3d3.notion.site/Fazlul-Ayan-Koushik-703c0b84db2340c18804599d0811de90)
-- 📝 I regularly write articles on [CodeNest](https://eager-bandicoot-3d3.notion.site/CodeNest-4c100f7146fb48d483856d0fbe4f556c)
-- 💬 Ask me about **Python, Django, Angular, Node**
-- 📫 How to reach me `kf.ayan17@gmail.com`
-- ⚡ Fun fact **I think I am Funny and Entertainer.**
+<div style="display: flex;">
+    <div style="flex: 1; padding-right: 20px;">
+        - 👨‍💻 All of my projects are available at [Portfolio](https://eager-bandicoot-3d3.notion.site/Fazlul-Ayan-Koushik-703c0b84db2340c18804599d0811de90) <br>
+        - 📝 I regularly write articles on [CodeNest](https://eager-bandicoot-3d3.notion.site/CodeNest-4c100f7146fb48d483856d0fbe4f556c) <br>
+        - 💬 Ask me about **Python, Django, Angular, Node** <br>
+        - 📫 How to reach me `kf.ayan17@gmail.com` <br>
+        - ⚡ Fun fact **I think I am Funny and Entertainer.**
+    </div>
+    <div style="flex: 1;">
+        <img width="280" height="190" style="margin-left: 50px;" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding GIF">
+    </div>
+</div>
 
 <br>
 
