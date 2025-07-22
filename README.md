@@ -54,6 +54,7 @@ A passionate Software Engineer from Bangladesh. I enjoy exploring new things, ex
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
       <img src="https://img.shields.io/badge/django%20rest%20framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+      <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
     </td>
   </tr>
   <tr>
