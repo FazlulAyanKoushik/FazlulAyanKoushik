@@ -2,7 +2,7 @@
 
 
 
-`Software Engineer (Backend Engineer | Python | Django | FastAPI)` <br><br>
+`Software Engineer (Backend Engineer | Python | Django - DRF | Fast API)` <br><br>
 A passionate Software Engineer from Bangladesh. I enjoy exploring new things, excelling in teamwork, working well under pressure, possessing strong time management and communication skills, and being detail-oriented and quick to learn new concepts. I’m a good listener and self-motivated. I have a keen interest in Software Development, Machine Learning and the Data Science sector.
 
 <img width="280" height="190" style="margin-right: 50px" align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="image">
